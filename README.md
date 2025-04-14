@@ -11,9 +11,6 @@ In The Chocolate Compass, I transformed a raw chocolate sales dataset into a str
 - Market & Regional Analysis: Evaluate global sales dynamics by comparing revenue and order volumes across countries, revealing high-value markets and opportunities for expansion.
 - Trend & Seasonality Discovery: Analyze month-over-month and year-over-year trends to forecast demand, streamline inventory management, and capitalize on seasonal peaks.
   
-![Screenshot 2025-04-13 015319](https://github.com/user-attachments/assets/ce5be61a-faac-4177-bcdf-3c7ac35f2492)
-
-
 ### Analytical Approach
 - Data Preparation & Cleaning: Structured the raw dataset for accuracy, ensuring all key metrics—such as total sales revenue, boxes shipped, and orders—were captured.
 - Pivot Table Analysis: Leveraged Microsoft Excel to create pivot tables that calculated critical KPIs, including:
